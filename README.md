@@ -1,6 +1,6 @@
 ## Olá! Eu eu me chamo André :D
 
-- 📚 Cursando Análise de desenvolvimento de sistemas
+- 📚 Cursando Análise e desenvolvimento de sistemas
 - 🌱 Estudando programação Back-End em Python
 - 📫Contate-me no Email: andrestanoga12@gmail.com
 
