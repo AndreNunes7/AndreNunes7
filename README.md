@@ -22,3 +22,6 @@
 </div><br>
 
 ![ Animação de cobra ](https://user-images.githubusercontent.com/112713600/210834429-99258731-0f98-46ea-b0cc-ccf38a664124.svg)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreNunes7&layout=compact)
