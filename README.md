@@ -3,7 +3,7 @@
 - 📚 Cursando Análise e desenvolvimento de sistemas
 - 🌱 Estudando programação Back-End em Python e C#
 - 🔒 Estudando o universo da cybersecurity e pentest.
-- 💻 Portfólio: https://portfolio-gm38.vercel.app/
+- 💻 Portfólio: ![port](<a href="https://portfolio-gm38.vercel.app/" target="_blank"></a>)
 
 
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBncDqpbhdJllrwPjdbRWJqPwrvGgVpKkjjSNgwqrtzSdrhfDrDlpDCcklmdkkVxFnqVgKq)
