@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">💻 Desenvolvedor Back-End Júnior com experiência no mercado criando soluções modernas, escaláveis e com propósito. Atuo principalmente com Python e Java, integrando sistemas via APIs, automação de processos e desenvolvimento de aplicações web.</p>
+<p align="left">💻 Desenvolvedor Back-End com experiência no mercado criando soluções modernas, escaláveis e com propósito. Atuo principalmente com Python e Java, integrando sistemas via APIs, automação de processos e desenvolvimento de aplicações web.</p>
 
 ###
 
