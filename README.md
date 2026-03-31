@@ -11,7 +11,7 @@
 ###
 
 <p align="left">
- • 🖥️ Desenvolvedor Back-End Júnior com experiência em Python (Django, Flask, FastAPI), Java e Spring Boot, criando APIs robustas e soluções escaláveis.<br>
+ • 🖥️ Desenvolvedor Back-End com experiência em Python (Django, Flask, FastAPI), Java e Spring Boot, criando APIs robustas e soluções escaláveis.<br>
  • 📚 Atualmente aprimorando habilidades em desenvolvimento web, arquitetura de software e boas práticas de segurança.<br>
  • 🔒 Entusiasta de Cybersecurity, com estudos em Pentest e Red Team, aplicando conceitos de segurança ofensiva para desenvolver software mais seguro e resiliente.<br>
  • 🌱 Apaixonado por tecnologia, aprendizado contínuo e por construir soluções de impacto que unem desenvolvimento e segurança.
